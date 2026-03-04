@@ -3,7 +3,5 @@
 // CSE-63(E)
 
 void main() {
-  for (int i = 2; i <= 100; i += 2) {
-    print(i);
-  }
+  print("Apurba Talapatra Ovi");
 }
